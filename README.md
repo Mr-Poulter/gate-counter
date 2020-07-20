@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-[tutorial](/tutorial)
+[tutorial](/gate-counter/tutorial)
 
 ## Use as Extension
 

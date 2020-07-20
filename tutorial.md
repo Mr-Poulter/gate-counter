@@ -86,4 +86,3 @@ sure it works on the real thing.
 
 Check out the extension problems in OneNote if you have time.
 
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

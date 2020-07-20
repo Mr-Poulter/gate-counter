@@ -1,6 +1,10 @@
 
 > Open this page at [https://mr-poulter.github.io/gate-counter/](https://mr-poulter.github.io/gate-counter/)
 
+## Tutorials
+
+[tutorial](/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
